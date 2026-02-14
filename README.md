@@ -12,3 +12,4 @@ Este es un analizador de calidad de código automatizado que utiliza la intelige
 ## Uso
 Ejecuta el script principal:
 `python src/analizador.py`
+`streamlit run src/clear_code.py`
